@@ -1,0 +1,14 @@
+C:\Users\peter\Desktop\Website Development Files\FInspect\FInspectAPI\FInspectAPI\FInspectService\bin\Debug\FInspectService.dll.config
+C:\Users\peter\Desktop\Website Development Files\FInspect\FInspectAPI\FInspectAPI\FInspectService\bin\Debug\FInspectService.dll
+C:\Users\peter\Desktop\Website Development Files\FInspect\FInspectAPI\FInspectAPI\FInspectService\bin\Debug\FInspectService.pdb
+C:\Users\peter\Desktop\Website Development Files\FInspect\FInspectAPI\FInspectAPI\FInspectService\bin\Debug\EntityFramework.dll
+C:\Users\peter\Desktop\Website Development Files\FInspect\FInspectAPI\FInspectAPI\FInspectService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\peter\Desktop\Website Development Files\FInspect\FInspectAPI\FInspectAPI\FInspectService\bin\Debug\FInspectData.dll
+C:\Users\peter\Desktop\Website Development Files\FInspect\FInspectAPI\FInspectAPI\FInspectService\bin\Debug\FInspectData.pdb
+C:\Users\peter\Desktop\Website Development Files\FInspect\FInspectAPI\FInspectAPI\FInspectService\bin\Debug\FInspectData.dll.config
+C:\Users\peter\Desktop\Website Development Files\FInspect\FInspectAPI\FInspectAPI\FInspectService\bin\Debug\EntityFramework.xml
+C:\Users\peter\Desktop\Website Development Files\FInspect\FInspectAPI\FInspectAPI\FInspectService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\peter\Desktop\Website Development Files\FInspect\FInspectAPI\FInspectAPI\FInspectService\obj\Debug\FInspectService.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\Website Development Files\FInspect\FInspectAPI\FInspectAPI\FInspectService\obj\Debug\FInspectService.csproj.CoreCompileInputs.cache
+C:\Users\peter\Desktop\Website Development Files\FInspect\FInspectAPI\FInspectAPI\FInspectService\obj\Debug\FInspectService.dll
+C:\Users\peter\Desktop\Website Development Files\FInspect\FInspectAPI\FInspectAPI\FInspectService\obj\Debug\FInspectService.pdb

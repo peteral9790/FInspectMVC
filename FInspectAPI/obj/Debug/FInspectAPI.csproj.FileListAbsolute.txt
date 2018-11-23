@@ -1,0 +1,53 @@
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\FInspectAPI.dll.config
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\FInspectAPI.dll
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\FInspectAPI.pdb
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\EntityFramework.dll
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\FInspectData.dll
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\FInspectService.dll
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\Newtonsoft.Json.dll
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\System.Web.Http.dll
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\FInspectData.pdb
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\FInspectData.dll.config
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\FInspectService.pdb
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\FInspectService.dll.config
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\EntityFramework.xml
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\Newtonsoft.Json.xml
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\System.Web.Http.xml
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\obj\Debug\FInspectAPI.csprojResolveAssemblyReference.cache
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\obj\Debug\FInspectAPI.dll
+C:\Users\finspect-dev\Desktop\Development Projects\FInspectApp\FInspectAPI\finspectapi\FInspectAPI\FInspectAPI\obj\Debug\FInspectAPI.pdb
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\FInspectAPI.dll.config
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\FInspectAPI.dll
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\FInspectAPI.pdb
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\EntityFramework.dll
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\FInspectData.dll
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\FInspectService.dll
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\Newtonsoft.Json.dll
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\System.Web.Http.dll
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\FInspectData.pdb
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\FInspectData.dll.config
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\FInspectService.pdb
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\FInspectService.dll.config
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\EntityFramework.xml
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\Newtonsoft.Json.xml
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\System.Web.Http.xml
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\obj\Debug\FInspectAPI.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\obj\Debug\FInspectAPI.csproj.CoreCompileInputs.cache
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\obj\Debug\FInspectAPI.dll
+C:\Users\peter\Desktop\Website Development Files\FInspect\Old\FInspectApp V3\FInspectAPI\FInspectAPI\obj\Debug\FInspectAPI.pdb
